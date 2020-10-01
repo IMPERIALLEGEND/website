@@ -1,6 +1,6 @@
 Website for phpMyAdmin
 ======================
-
+Its amezing website
 Django code for phpMyAdmin's website.
 
 .. image:: https://travis-ci.org/phpmyadmin/website.svg?branch=master
